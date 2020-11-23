@@ -4,9 +4,9 @@ The user is pitted against the computer in an intense round of Noughts and Cross
 Explicitly shown:
 
 1 | 2 | 3
----------
+-  -  -  -
 4 | 5 | 6
----------
+-  -  -  -
 7 | 8 | 9
 
 
