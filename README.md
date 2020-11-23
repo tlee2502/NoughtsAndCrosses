@@ -8,6 +8,8 @@ Explicitly shown:
 4 | 5 | 6
 ---------
 7 | 8 | 9
+
+
 User is reprompted for bad input (!int) or if the space already has a x or o in it.
 After the user, the computer gets to move. Instead of random, the computer move is written in a way to attempt to stop a user victory, or to defeat the user.
 First the computer will check if the user is about to win, then place an o into that square. 
