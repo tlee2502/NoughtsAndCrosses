@@ -1,6 +1,7 @@
 Noughts and Crosses game
-The user is pitted against the computer in an intense round of Noughts and Crosses (Tic Tac Toe). Some assumptions made: User is always crosses (x). The user goes first. As long as the game is not full, the user is prompted to choose where to place an x by entering a number between 1-9. Explicitly shown:
-
+The user is pitted against the computer in an intense round of Noughts and Crosses (Tic Tac Toe). Some assumptions made: User is always crosses (x). The user goes first. As long as the game is not full, the user is prompted to choose where to place an x by entering a number between 1-9. 
+1,2,3 for top row, 4,5,6 for middle row, 7,8,9 for bottom row.
+Explicitly shown:
 
 1 | 2 | 3
 ---------
